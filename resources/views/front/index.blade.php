@@ -67,7 +67,7 @@
 												experience.</p>
 										</div>
 										<div class="m-top--sp1">
-											<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+											<a href="/about" class="btn acf-accordion__learn-more" style="width: 90%;">
 												Learn more
 											</a>
 										</div>
@@ -82,7 +82,7 @@
 												experience.</p>
 										</div>
 										<div class="m-top--sp1">
-											<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+											<a href="/about" class="btn acf-accordion__learn-more" style="width: 90%;">
 												Learn more
 											</a>
 										</div>
@@ -97,7 +97,7 @@
 												experience.</p>
 										</div>
 										<div class="m-top--sp1">
-											<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+											<a href="/about" class="btn acf-accordion__learn-more" style="width: 90%;">
 												Learn more
 											</a>
 										</div>
@@ -149,13 +149,13 @@
 							</a>		
 						</div>
 						<div class="col-xs-12 col-sm-12 col-md-4 home__as-seen-in__item">
-							<a href="schedule.html" class="btn our-yoga-classes__button" style="width: 100%;">
+							<a href="/schedule" class="btn our-yoga-classes__button" style="width: 100%;">
 								Explore classes
 							</a>
 							
 						</div>
 						<div class="col-xs-12 col-sm-12 col-md-4 home__as-seen-in__item">
-							<a href="class.html" class="btn our-yoga-classes__button" style="width: 100%;">
+							<a href="/class" class="btn our-yoga-classes__button" style="width: 100%;">
 								Book a Class
 							</a>
 						</div>
@@ -195,7 +195,7 @@
 										</a>
 									</div>
 									<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-										<a href="blog/anti-racism-diversity-update/index.html"
+										<a href="/blog"
 											class="featured-post__link">
 											<div class="featured-post__inner"
 												style="border-color: #009cbb;background-image: url('images/44444.jpg')">
@@ -212,7 +212,7 @@
 										</a>
 									</div>
 									<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-										<a href="blog/introducing-the-minipod/index.html"
+										<a href="/blog"
 											class="featured-post__link">
 											<div class="featured-post__inner"
 												style="border-color: #009cbb;background-image: url('images/4444.jpg')">

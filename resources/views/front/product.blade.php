@@ -19,7 +19,7 @@
 									</div>
 									<div class="row tac">
 										<div class="col-xs-12">
-											<a href="teachers-training-modul.html" class="btn prices__find-a-studio active ">
+											<a href="/teachers-training-modul" class="btn prices__find-a-studio active ">
 												<span class="btn__inner ">Register Now </span>
 											</a>
 										</div>
@@ -67,7 +67,7 @@
 									<div class="container">
 										<div class="row slider__content">
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border: none;background-image: url('images/product44.jpg')">
 														<div class="featured-post__wrapper">
@@ -83,14 +83,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about" class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border: none;background-image: url('images/product21.jpg')">
 														<div class="featured-post__wrapper">
@@ -106,14 +106,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border: none;background-image: url('images/product20.jpg')">
 														<div class="featured-post__wrapper">
@@ -129,7 +129,7 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
@@ -138,7 +138,7 @@
 										</div>
 										<div class="row slider__content">
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border: none;background-image: url('images/product19.jpg')">
 														<div class="featured-post__wrapper">
@@ -154,14 +154,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border: none;background-image: url('images/product18.jpg')">
 														<div class="featured-post__wrapper">
@@ -177,14 +177,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border: none;background-image: url('images/product17.jpg')">
 														<div class="featured-post__wrapper">
@@ -200,7 +200,7 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
@@ -209,7 +209,7 @@
 										</div>
 										<div class="row slider__content">
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product44.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -224,14 +224,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product21.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -246,14 +246,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product20.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -268,7 +268,7 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
@@ -277,7 +277,7 @@
 										</div>
 										<div class="row slider__content">
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product19.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -292,14 +292,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product18.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -314,14 +314,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product17.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -336,7 +336,7 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
@@ -345,7 +345,7 @@
 										</div>
 										<div class="row slider__content">
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product44.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -360,14 +360,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product21.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -382,14 +382,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product20.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -404,7 +404,7 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
@@ -413,7 +413,7 @@
 										</div>
 										<div class="row slider__content">
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product19.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -428,14 +428,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product18.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -450,14 +450,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product17.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -472,7 +472,7 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
@@ -481,7 +481,7 @@
 										</div>
 										<div class="row slider__content">
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product44.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -496,14 +496,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product21.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -518,14 +518,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product20.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -540,7 +540,7 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
@@ -549,7 +549,7 @@
 										</div>
 										<div class="row slider__content">
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product19.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -564,14 +564,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product18.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -586,14 +586,14 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner" style="border: none;background-image: url('images/product17.jpg')">
 														<div class="featured-post__wrapper">
 															<div class="post__content hover tac" style="padding: 15px;">
@@ -608,7 +608,7 @@
 												</a>
 												<div class="tac bbr md-p-bottom--sp2">
 													<div class="columns__content m-top--sp1" style="padding: 10px;">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
@@ -722,7 +722,7 @@
 							London, UK, but also have courses in Pretoria, South Africa.</p>
 						<div class="notification-content__buttons m-top--sp2">
 							<div class="notification-buttons__btn">
-								<a href="../sa-teacher-training/index.html" class="btn btn--small btn--cta ">
+								<a href="/teacher-training" class="btn btn--small btn--cta ">
 									<span class="btn__inner ">
 										Go to SA Teacher Training </span>
 								</a>

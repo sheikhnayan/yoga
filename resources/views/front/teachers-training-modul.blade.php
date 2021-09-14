@@ -177,7 +177,7 @@
 										</div>
 										<input type="hidden" name="sa" value="false">
 										<div class="col-xs-12">
-											<a class="btn" href="teachers-training.html"><span class="btn__inner ">back</span></a>
+											<a class="btn" href="/teachers-training"><span class="btn__inner ">back</span></a>
 											<button href="javascript:void(0);"
 												class="btn teacher-training-form__submit " id='training-form-submit'
 												type='submit'>

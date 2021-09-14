@@ -24,7 +24,7 @@
 									</div>
 									<div class="row tac">
 										<div class="col-xs-12">
-											<a href="teachers-training-modul.html" class="btn prices__find-a-studio active ">
+											<a href="/teachers-training-modul" class="btn prices__find-a-studio active ">
 												<span class="btn__inner ">Register Now </span>
 											</a>
 										</div>
@@ -78,7 +78,7 @@
 									<div class="container">
 										<div class="row slider__content">
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border-color: #D3BCB6;background-image: url('images/teachers_training_card.jpg')">
 														<div class="featured-post__wrapper">
@@ -106,14 +106,14 @@
 														<p class="p-color-card"><strong>Week 2 :</strong> 14th-09th Dec</p>
 													</div>
 													<div class="m-top--sp1">
-														<a href="about-us/index.html" class="btn acf-accordion__learn-more" style="width: 90%;">
+														<a href="/about class="btn acf-accordion__learn-more" style="width: 90%;">
 															Buy Now
 														</a>
 													</div>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border-color: #D3BCB6;background-image: url('images/teachers_training_card.jpg')">
 														<div class="featured-post__wrapper">
@@ -149,7 +149,7 @@
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border-color: #D3BCB6;background-image: url('images/teachers_training_card.jpg')">
 														<div class="featured-post__wrapper">
@@ -187,7 +187,7 @@
 										</div>
 										<div class="row slider__content">
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border-color: #D3BCB6;background-image: url('images/teachers_training_card.jpg')">
 														<div class="featured-post__wrapper">
@@ -222,7 +222,7 @@
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border-color: #D3BCB6;background-image: url('images/teachers_training_card.jpg')">
 														<div class="featured-post__wrapper">
@@ -257,7 +257,7 @@
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-6 col-md-4 m-bottom--sp3">
-												<a href="blog/foundations-of-yoga-online-series/index.html" class="featured-post__link">
+												<a href="/blog" class="featured-post__link">
 													<div class="featured-post__inner"
 														style="border-color: #D3BCB6;background-image: url('images/teachers_training_card.jpg')">
 														<div class="featured-post__wrapper">
@@ -527,7 +527,7 @@
 											<label class="form-group__label form-group__label--checkbox">
 												<input name="privacy" type="checkbox"
 													class="form-group__input form-1-validate" required />
-												I agree to the terms of service & <a href="../legals/index.html">privacy
+												I agree to the terms of service & <a href="/legals">privacy
 													policy</a>
 											</label>
 										</div>
@@ -585,7 +585,7 @@
 							London, UK, but also have courses in Pretoria, South Africa.</p>
 						<div class="notification-content__buttons m-top--sp2">
 							<div class="notification-buttons__btn">
-								<a href="../sa-teacher-training/index.html" class="btn btn--small btn--cta ">
+								<a href="/teacher-training" class="btn btn--small btn--cta ">
 									<span class="btn__inner ">
 										Go to SA Teacher Training </span>
 								</a>

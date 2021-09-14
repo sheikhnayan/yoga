@@ -36,7 +36,7 @@
 											</div>
 											<div class="col-lg-12">
 												<div class="venue-card__actions">
-													<a href="class.html"
+													<a href="/class"
 															class="btn venue-card-actions__schedule btn--wide btn--white">
 															<span class="btn__inner ">
 																<i class='far fa-calendar-alt btn__icon'></i>Classes

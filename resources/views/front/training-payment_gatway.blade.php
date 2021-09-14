@@ -56,7 +56,7 @@
 									</div>
 								</div>
 								<div class="col-xs-12 m-top--sp2">
-									<a class="btn" href="teachers-training.html"><span class="btn__inner ">back</span></a>
+									<a class="btn" href="/teachers-training"><span class="btn__inner ">back</span></a>
 									<button href="javascript:void(0);" class="btn teacher-training-form__submit " id='training-form-submit'
 										type='submit'>
 										<span class="btn__inner ">

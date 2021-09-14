@@ -126,13 +126,13 @@
 									</a>
 								</div>
 								<div class="col-xs-12 col-sm-12 col-md-4 home__as-seen-in__item">
-									<a href="our-classes/index.html" class="btn our-yoga-classes__button" style="width: 100%;">
+									<a href="/class" class="btn our-yoga-classes__button" style="width: 100%;">
 										Explore classes
 									</a>
 					
 								</div>
 								<div class="col-xs-12 col-sm-12 col-md-4 home__as-seen-in__item">
-									<a href="studios/index.html" class="btn our-yoga-classes__button" style="width: 100%;">
+									<a href="/class" class="btn our-yoga-classes__button" style="width: 100%;">
 										Book a Class
 									</a>
 								</div>

@@ -22,7 +22,7 @@
 
 <body class="home page-template-default page page-id-2 body--en" class="">
 	<div id="page" class="site">
-		<a href="index.html" rel="home" class="page-logo page-logo--scrolled" data-page-scrolled="true">
+		<a href="/" rel="home" class="page-logo page-logo--scrolled" data-page-scrolled="true">
 			<img src="images/logo.png" alt="Yogi Maharaj Yoga" class="page-logo__img" />
 		</a>
 		<div class="header__icons">
@@ -37,29 +37,29 @@
 		<div class="main-menu-content">
 			<nav>
 				<ul class="main-menu ">
-					<li class="main-menu__item active"><a href="index.html" class="main-menu__link">Infrared Yoga&#8482 by Yogi
+					<li class="main-menu__item active"><a href="/" class="main-menu__link">Infrared Yoga&#8482 by Yogi
 							Maharaj</a>
 					</li>
-					<li class="main-menu__item"><a href="infrared-technology.html" class="main-menu__link">Infrared Technology</a>
+					<li class="main-menu__item"><a href="/infrared-technology" class="main-menu__link">Infrared Technology</a>
 					</li>
-					<li class="main-menu__item"><a href="benefites-of-infrared-yoga.html" class="main-menu__link">Benefits of Infrared
+					<li class="main-menu__item"><a href="/benefites-of-infrared-yoga" class="main-menu__link">Benefits of Infrared
 							Yoga</a>
 					</li>
-					<li class="main-menu__item"><a href="faq.html" class="main-menu__link">Q & A by Yogi Maharaj</a>
+					<li class="main-menu__item"><a href="/faq" class="main-menu__link">Q & A by Yogi Maharaj</a>
 					</li>
-					<li class="main-menu__item"><a href="teachers-training.html" class="main-menu__link">Teachers Training Courses</a>
+					<li class="main-menu__item"><a href="/teachers-training" class="main-menu__link">Teachers Training Courses</a>
 					</li>
-					<li class="main-menu__item"><a href="franchise.html" class="main-menu__link">Franchise of Infrared Yoga</a>
+					<li class="main-menu__item"><a href="/franchise" class="main-menu__link">Franchise of Infrared Yoga</a>
 					</li>
-					<li class="main-menu__item"><a href="about.html" class="main-menu__link">About Yogi Maharaj</a>
+					<li class="main-menu__item"><a href="/about" class="main-menu__link">About Yogi Maharaj</a>
 					</li>
-					<li class="main-menu__item  main-menu__item--login"><a href="schedule.html" class="main-menu__link">How to book a
+					<li class="main-menu__item  main-menu__item--login"><a href="/schedule" class="main-menu__link">How to book a
 							Class</a>
 					</li>
 				</ul>
 			</nav>
 			
-			<a href="index.html" rel="home" class="main-menu__logo">
+			<a href="/" rel="home" class="main-menu__logo">
 				<img src="images/logo.png" alt="Yogi Maharaj Yoga"
 					class="main-menu-logo__img" />
 			</a>

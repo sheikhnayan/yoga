@@ -31,8 +31,14 @@ Route::get('/benefites-of-infrared-yoga', function(){
 Route::get('/faq', function(){
     return view('front.faq');
 });
+Route::get('/class', function(){
+    return view('front.class');
+});
 Route::get('/teachers-training', function(){
     return view('front.teachers-training');
+});
+Route::get('/teachers-training-modul', function(){
+    return view('front.teachers-training-modul');
 });
 Route::get('/franchise', function(){
     return view('front.franchise');
